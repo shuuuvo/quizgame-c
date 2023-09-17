@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1626664905 source:c:\users\shuuu\desktop\code blocks\mini_quiz_game\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>

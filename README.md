@@ -13,3 +13,5 @@ A quiz game project in c language, is an easy project for beginners to learn how
 * show record – displays the highest cash prize won by a specific user show.
 * score – displays the highest score/cash prize won by a specific user.
 
+### Snapshot
+![cpro](https://github.com/shuuuvo/quizgame-c/assets/129393771/596830ca-19ee-4e7e-8722-31ca4b2b1ce2)

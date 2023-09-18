@@ -1,4 +1,4 @@
-# quizgame-c
+# Mini Quiz Game in C
 My first mini project in C, for C programing language course.
 
 ## Description
